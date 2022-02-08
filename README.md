@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 </div>
 
 - 🔭 I’m currently working on random small things
+- 🌱 I’m currently learning EDA
 - 📫 How to reach me: 3top1a#5483
-- 🐧 Been using linux since 2019, 
+- 🐧 Been using linux since 2016, full time since 2019
 
 #### Stats
 
