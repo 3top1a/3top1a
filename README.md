@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 </div>
 
-I've moved to [sr.ht](https://sr.ht/~e-topy/).
+I've moved my random personal stuff to [sr.ht](https://sr.ht/~e-topy/).
 
 [My website](https://e-topy.srht.site/)
 
