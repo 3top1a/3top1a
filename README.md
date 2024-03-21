@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I've moved my random personal stuff to [sr.ht](https://sr.ht/~e-topy/).
 
-[My website](https://e-topy.srht.site/)
+[My website](https://rusz.space/)
 
 [![3top1a's GitHub stats](https://github-readme-stats.vercel.app/api?username=3top1a&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3top1a&hide=c,CMake,Makefile&exclude_repo=godot,3top1a&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
